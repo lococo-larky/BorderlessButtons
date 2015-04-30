@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\larky2\BorderlessButtons\Application\build\intermediates\exploded-aar\com.android.support\support-v13\21.0.2\libs\internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9346da9fb778af9e451211bbc3541daced174ba7">
+        <dex dex="C:\larky2\BorderlessButtons\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-aa0b0eb011f92bc2275817c302cbacc9a7976aa9.jar" />
+    </item>
+    <item
+        jar="C:\larky2\BorderlessButtons\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b017100da14f9c158c9f5f2f508333c224b24a7c">
+        <dex dex="C:\larky2\BorderlessButtons\Application\build\intermediates\pre-dexed\debug\classes-79f72f94ee016dc6f313c84f6403e8b5bf7b6a01.jar" />
+    </item>
+    <item
+        jar="C:\larky2\BorderlessButtons\Application\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="C:\larky2\BorderlessButtons\Application\build\intermediates\pre-dexed\debug\classes-7874fa03a8f8b21f63f0a22b6add576b1e728cfc.jar" />
+    </item>
+    <item
+        jar="C:\larky2\BorderlessButtons\Application\build\intermediates\exploded-aar\com.android.support\support-v13\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61965ae058916e6a57950dd61b0164dc866af19a">
+        <dex dex="C:\larky2\BorderlessButtons\Application\build\intermediates\pre-dexed\debug\classes-f8d175bec8cfd73f82d2b77538df8bdc2236fa76.jar" />
+    </item>
+    <item
+        jar="C:\Users\acer\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.2\support-annotations-21.0.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex dex="C:\larky2\BorderlessButtons\Application\build\intermediates\pre-dexed\debug\support-annotations-21.0.2-7a29edc821c682c9ed553629d6669353405794b2.jar" />
+    </item>
+    <item
+        jar="C:\larky2\BorderlessButtons\Application\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\libs\internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="C:\larky2\BorderlessButtons\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-cc8217dcdb2cf13dcde68d38173ae7d8db075998.jar" />
+    </item>
+
+</items>
