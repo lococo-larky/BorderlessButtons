@@ -23,8 +23,6 @@ before_install:
   - tar xzf android-sdk_r22.3-linux.tgz
   - export ANDROID_HOME=$PWD/android-sdk-linux
   - export PATH=${PATH}:${ANDROID_HOME}/tools:${ANDROID_HOME}/platform-tools
-
-  before_install:
   - pwd // Print current working directory
   - echo $PATH // Check your PATH environment variable
   - echo $ANDROID_HOME
